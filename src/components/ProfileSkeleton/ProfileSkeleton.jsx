@@ -12,6 +12,8 @@ function ProfileSkeleton() {
       GitHub: '',
       Twitter: '',
       LinkedIn: '',
+      Instagram: '',
+      Email:'',
     },
   };
 
