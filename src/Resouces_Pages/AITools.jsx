@@ -55,6 +55,16 @@ const aiTools = [
     ],
     url: 'https://runwayml.com/',
   },
+  { //iamaloksy
+    title: 'DeepSeek AI',
+    description: 'DeepSeek AI is a cutting-edge platform offering AI-driven tools for data analysis, business insights, and predictive analytics.',
+    features: [
+        'AI-powered data analysis and reporting',
+        'Predictive analytics for smarter decision-making',
+        'Customizable dashboards and visualization tools',
+    ],
+    url: 'https://deepseekai.com/'
+   },
 ];
 
 const AITools = () => {
